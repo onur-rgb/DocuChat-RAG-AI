@@ -1,0 +1,7 @@
+gradio
+langchain
+pypdf
+openai
+pymilvus
+tiktoken
+docx2txt
